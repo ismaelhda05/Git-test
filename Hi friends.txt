@@ -1,1 +1,1 @@
-Hola amigos, esto simplemente es para verificar la conectividad e git y GitHub, SALU2.
+Hola amigos, esto simplemente es para verificar la conectividad de git y GitHub, SALU2.
